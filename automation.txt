@@ -1,4 +1,6 @@
-this is the 1 practice
+this is the 1 practice which i am exicted on git
 i am doing to execute the git
 please bless me to get success in this
 profession
+once i am changing the file and adding some lines 
+this file so i need to test for the git diff command
