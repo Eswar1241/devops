@@ -6,3 +6,8 @@ once i am changing the file and adding some lines
 this file so i need to test for the git diff command
 i am editing this file from the CLI mode
 i tested the the merge option now i want to test it by own my self
+<<<<<<< Updated upstream
+this file is edited by dev2 to check the conflict
+=======
+this file is edited by dev 1 to check the confilct
+>>>>>>> Stashed changes
