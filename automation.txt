@@ -6,5 +6,3 @@ once i am changing the file and adding some lines
 this file so i need to test for the git diff command
 i am editing this file from the CLI mode
 i tested the the merge option now i want to test it by own my self
-this is the file editing to create conflict by list developer
-this is the file editing 2nd developer to resolve the conflict
