@@ -4,3 +4,4 @@ Adding third line
 Adding fourth line
 adding 5th line
 doing something in feature brnach
+This is sting of th bisect comnad
